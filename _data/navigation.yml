@@ -12,11 +12,11 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /talks/    
+    url: /teaching/    
 
   - title: "Teaching"
     url: /teaching/    
 
   - title: "Join Us"
-    url: /year-archive/
+    url: /teaching/
   

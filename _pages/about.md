@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Yue Xianghu (岳祥虎) - Homepage"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
